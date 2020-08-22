@@ -1,0 +1,17 @@
+{
+  "name": "checklistcli",
+  "version": "1.0.0",
+  "description": "todo checklist ",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abrolhus",
+  "license": "MIT",
+  "bin": {
+    "hello": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
